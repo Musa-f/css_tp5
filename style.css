@@ -17,3 +17,11 @@ p {
     background-image: linear-gradient(rgb(255, 255, 255), rgba(0,0,0,50%));
 }
 
+.box3{
+    background-image: radial-gradient(circle at center, blue, pink);
+
+}
+
+.box4{
+    background-image: repeating-radial-gradient(black, white 10px);
+}
