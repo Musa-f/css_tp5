@@ -25,3 +25,8 @@ p {
 .box4{
     background-image: repeating-radial-gradient(black, white 10px);
 }
+
+.box4:hover{
+    background-image: repeating-radial-gradient(white, black 10px);
+}
+
